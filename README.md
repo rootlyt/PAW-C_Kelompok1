@@ -8,5 +8,5 @@ Kelompok Kami Yang Beranggotakan: <br>
 '175150307111020 MUHAMMAD NAUFAL AZIZ HURYANSYAH <br>
 '185150301111030 RIFQI IMAM RAMADHAN <br>
 Pada MockUp kami menggunakan Native MVC tanpa framework<br>
-Link Video Demo: DALAM_PROSES <br>
+Link Video Demo: https://youtu.be/bLjaa9zOU9s <br>
 Link Hosting: http://18.116.71.207/mvc-example/
